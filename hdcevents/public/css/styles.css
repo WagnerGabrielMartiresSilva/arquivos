@@ -1,0 +1,15 @@
+*{
+    font-family: 'Roboto';
+}
+
+body {
+    margin: 0;
+}
+        
+#container-imagem {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background: url('../img/Palestra.jpg');
+    background-size: cover;
+}
